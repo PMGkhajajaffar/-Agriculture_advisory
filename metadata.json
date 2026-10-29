@@ -1,0 +1,6 @@
+{
+  "name": "TerraCrop Advisory",
+  "description": "An approachable crop advisory and agricultural decision platform empowering farmers, community growers, and hobbyists with climate-matched crop tools, safe treatment databases, and peer wisdom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
